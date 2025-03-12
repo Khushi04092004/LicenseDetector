@@ -1,0 +1,16 @@
+names:
+- bike
+- bus
+- car
+- license-plate
+- truck
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: licensedetector
+  url: https://universe.roboflow.com/kirti-dnxr3/licensedetector/dataset/1
+  version: 1
+  workspace: kirti-dnxr3
+test: ../test/images
+train: ../train/images
+val: ../valid/images

@@ -1,0 +1,8 @@
+
+path: ./LICENSEDETECTOR-1  # Change this to your dataset path
+train: train/images
+val: valid/images
+test: test/images  # Optional
+
+nc: 1  # Number of classes (License Plate Detection)
+names: ['license_plate']  # Class name
