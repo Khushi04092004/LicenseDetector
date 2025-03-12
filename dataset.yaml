@@ -1,8 +1,8 @@
 
-path: ./LICENSEDETECTOR-1  # Change this to your dataset path
+path: /content/LicenseDetector/LICENSEDETECTOR-1 
 train: train/images
 val: valid/images
-test: test/images  # Optional
+test: test/images 
 
-nc: 1  # Number of classes (License Plate Detection)
-names: ['license_plate']  # Class name
+nc: 1 
+names: ['license_plate'] 
